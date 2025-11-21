@@ -277,12 +277,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-**Project Maintainer**: [Your Name/Organization]  
-**Email**: your-email@example.com  
-**Issues**: [GitHub Issues](https://github.com/your-username/coral-health-analyzer/issues)  
-**Discussions**: [GitHub Discussions](https://github.com/your-username/coral-health-analyzer/discussions)  
-**Colab Notebooks**: [Google Colab Folder](https://drive.google.com/drive/folders/your-colab-folder)
-
+**Project Maintainer**: [BlueSight Analytics]  
+**Email**: ochillohbelindar@gmail.com 
 ---
 
 <div align="center">
