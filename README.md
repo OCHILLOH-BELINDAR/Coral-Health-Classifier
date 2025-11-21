@@ -277,8 +277,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-**Project Maintainer**: [BlueSight Analytics]  
-**Email**: ochillohbelindar@gmail.com 
+****Project Maintainer****: [BlueSight Analytics]  
+****Email****: ochillohbelindar@gmail.com 
 ---
 
 <div align="center">
